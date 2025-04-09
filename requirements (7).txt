@@ -1,0 +1,8 @@
+requests
+pymongo
+python-dotenv
+beautifulsoup4
+nltk
+rapidfuzz
+praw
+pypdf2
