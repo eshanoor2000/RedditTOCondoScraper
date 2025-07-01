@@ -6,3 +6,5 @@ nltk
 rapidfuzz
 praw
 pypdf2
+spacy
+python-dateutil
